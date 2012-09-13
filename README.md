@@ -1,4 +1,4 @@
 Ordered-
 ========
 
-OSHPark ordered versions
+OSHPark ordered versions of suspect devices. 
